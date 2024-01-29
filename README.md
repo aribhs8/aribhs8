@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Arib Hussain 👋
 
 <!--
 **aribhs8/aribhs8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 💻 I've been coding in Python primarily for over 6 years
+- 🌱 I'm currently learning Rust at the moment
+- 📱 Most of the apps I've worked on are for Android or the web
+- 🛠️ I have a knack for writing firmware and tests for electronics
+- ▶️ I have a YouTube channel where I post coding tutorials: [Hucorp](https://www.youtube.com/channel/UCj3mTMyGuozzEnObfTodimQ)
